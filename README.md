@@ -9,6 +9,17 @@ Este projeto implementa um sistema de cadastro de produtos utilizando os conceit
 - **Sobrescrita de Métodos**: As classes `Livro` e `Eletro` sobrescrevem o método `toString` para exibir informações específicas de cada tipo de produto.
 - **Polimorfismo**: A lista de produtos pode conter objetos tanto da classe `Livro` quanto da classe `Eletro`, todos tratados como `Produto`.
 
+src/
+  classes/
+    produto/
+      Produto.java
+    livro/
+      Livro.java
+    eletro/
+      Eletro.java
+  Main.java
+
+
 ## Tecnologias Utilizadas
 
 - **Linguagem**: Java
