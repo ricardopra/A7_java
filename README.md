@@ -9,18 +9,7 @@ Este projeto implementa um sistema de cadastro de produtos utilizando os conceit
 - **Sobrescrita de Métodos**: As classes `Livro` e `Eletro` sobrescrevem o método `toString` para exibir informações específicas de cada tipo de produto.
 - **Polimorfismo**: A lista de produtos pode conter objetos tanto da classe `Livro` quanto da classe `Eletro`, todos tratados como `Produto`.
 
-seu-projeto/
-├── src/
-│   ├── classes/
-│   │   ├── produto/
-│   │   │   └── Produto.java
-│   │   ├── livro/
-│   │   │   └── Livro.java
-│   │   └── eletro/
-│   │       └── Eletro.java
-│   └── Main.java
-├── .gitignore
-└── README.md
+
 
 ## Tecnologias Utilizadas
 
@@ -35,3 +24,16 @@ seu-projeto/
 - Livro [nome=Algoritmos, preco=89.9, codigo=103, autor=Martin Fowler]
 
 ![alt text](image.png)
+
+```bash
+├── src/
+│   ├── classes/
+│   │   ├── produto/
+│   │   │   └── Produto.java
+│   │   ├── livro/
+│   │   │   └── Livro.java
+│   │   └── eletro/
+│   │       └── Eletro.java
+│   └── Main.java
+├── .gitignore
+└── README.md
