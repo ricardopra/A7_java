@@ -16,10 +16,10 @@ Este projeto implementa um sistema de cadastro de produtos utilizando os conceit
 - **Compilador**: `javac`
 
 ## Saída esperada
-Livro [nome=Java Básico, preco=59.9, codigo=101, autor=John Doe]
-Livro [nome=Estruturas de Dados, preco=79.9, codigo=102, autor=Jane Doe]
-Eletro [nome=Notebook, preco=2999.9, codigo=201, fabricante=Dell]
-Eletro [nome=Smartphone, preco=1999.9, codigo=202, fabricante=Samsung]
-Livro [nome=Algoritmos, preco=89.9, codigo=103, autor=Martin Fowler]
+-Livro [nome=Java Básico, preco=59.9, codigo=101, autor=John Doe]
+-Livro [nome=Estruturas de Dados, preco=79.9, codigo=102, autor=Jane Doe]
+-Eletro [nome=Notebook, preco=2999.9, codigo=201, fabricante=Dell]
+-Eletro [nome=Smartphone, preco=1999.9, codigo=202, fabricante=Samsung]
+-Livro [nome=Algoritmos, preco=89.9, codigo=103, autor=Martin Fowler]
 
 ![alt text](image.png)
